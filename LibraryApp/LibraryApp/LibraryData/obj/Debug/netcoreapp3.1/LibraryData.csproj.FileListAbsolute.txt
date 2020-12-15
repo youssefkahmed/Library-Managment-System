@@ -1,0 +1,12 @@
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\Joe\Documents\VS2019 Projects\LibraryApp\LibraryApp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.genruntimeconfig.cache
